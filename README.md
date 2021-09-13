@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="walkthrough2.gif" width=250><br>
 
 ### Notes
-N/A
+It is very difficult to show the loading placeholder image in the gif because even after slowing down the network on the emulator, a blank screen appears until everything is loaded. There is however a quick flash of my loading placeholder image before all images are actually loaded which shows me that it works.
 
 ### Open-source libraries used
 
